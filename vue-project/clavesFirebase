@@ -1,0 +1,9 @@
+export const clave = {
+  apiKey: "AIzaSyCYnfQLaGJXOhTE99PrPYwdTbrR1YSVoWw",
+  authDomain: "proyecto-tienda-cd6d0.firebaseapp.com",
+  projectId: "proyecto-tienda-cd6d0",
+  storageBucket: "proyecto-tienda-cd6d0.appspot.com",
+  messagingSenderId: "376324922700",
+  appId: "1:376324922700:web:edd75b47f11929415283e9",
+  measurementId: "G-LMS8X9PNWH"
+};

@@ -1,1 +1,4 @@
-# Tareas-App-Multiusuario
+ADMINISTRADOR
+
+USUARIO:administrador@gmail.com
+CONTRASEÑA:administrador
